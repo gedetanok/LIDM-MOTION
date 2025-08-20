@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Area of a Triangle",
+    "question_text": "Sebuah segitiga memiliki alas 12 cm dan tinggi 12 cm. Berapakah luasnya (cm^2)?",
+    "answer": "72",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Volume of a Cube",
+    "question_text": "Sebuah kubus memiliki panjang sisi 7 cm. Berapakah volumenya (cm^3)?",
+    "answer": "343",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Pythagorean Missing Leg",
+    "question_text": "Sebuah segitiga siku-siku memiliki sisi alas 48 cm dan sisi miring 52 cm. Berapakah panjang sisi tegaknya (cm)?",
+    "answer": "20",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Volume of a Cone",
+    "question_text": "Sebuah kerucut memiliki jari-jari 21 cm dan tinggi 18 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "8316",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Area of a Rectangle",
+    "question_text": "Sebuah persegi panjang memiliki panjang 10 cm dan lebar 18 cm. Berapakah luasnya (cm^2)?",
+    "answer": "180",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Perimeter of a Square",
+    "question_text": "Sebuah persegi memiliki sisi 6 cm. Berapakah kelilingnya (cm)?",
+    "answer": "24",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Surface Area of a Sphere",
+    "question_text": "Sebuah bola memiliki jari-jari 14 cm. Gunakan π = 22/7. Berapakah luas permukaannya (cm^2)?",
+    "answer": "2464",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Area of a Triangle",
+    "question_text": "Sebuah segitiga memiliki alas 14 cm dan tinggi 8 cm. Berapakah luasnya (cm^2)?",
+    "answer": "56",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Area of a Rectangle",
+    "question_text": "Sebuah persegi panjang memiliki panjang 7 cm dan lebar 17 cm. Berapakah luasnya (cm^2)?",
+    "answer": "119",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Volume of a Cylinder",
+    "question_text": "Sebuah tabung memiliki jari-jari 7 cm dan tinggi 21 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "3234",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Surface Area of a Cube",
+    "question_text": "Sebuah kubus memiliki panjang sisi 5 cm. Berapakah luas permukaan kubus tersebut (cm^2)?",
+    "answer": "150",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Perimeter of a Square",
+    "question_text": "Sebuah persegi memiliki sisi 10 cm. Berapakah kelilingnya (cm)?",
+    "answer": "40",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Circumference of a Circle",
+    "question_text": "Sebuah lingkaran memiliki diameter 21 cm. Gunakan π = 22/7. Berapakah keliling lingkaran tersebut (cm)?",
+    "answer": "66",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Pythagorean Hypotenuse",
+    "question_text": "Sebuah segitiga siku-siku memiliki sisi tegak 24 cm dan sisi alas 32 cm. Berapakah panjang sisi miringnya (cm)?",
+    "answer": "40",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Area of a Rectangle",
+    "question_text": "Sebuah persegi panjang memiliki panjang 17 cm dan lebar 13 cm. Berapakah luasnya (cm^2)?",
+    "answer": "221",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Circumference of a Circle",
+    "question_text": "Sebuah lingkaran memiliki diameter 42 cm. Gunakan π = 22/7. Berapakah keliling lingkaran tersebut (cm)?",
+    "answer": "132",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Pythagorean Hypotenuse",
+    "question_text": "Sebuah segitiga siku-siku memiliki sisi tegak 21 cm dan sisi alas 72 cm. Berapakah panjang sisi miringnya (cm)?",
+    "answer": "75",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Volume of a Cylinder",
+    "question_text": "Sebuah tabung memiliki jari-jari 14 cm dan tinggi 6 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "3696",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Volume of a Rectangular Prism",
+    "question_text": "Sebuah balok memiliki ukuran panjang 4 cm, lebar 8 cm, dan tinggi 7 cm. Berapakah volumenya (cm^3)?",
+    "answer": "224",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Volume of a Sphere",
+    "question_text": "Sebuah bola memiliki jari-jari 42 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "310464",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Pythagorean Hypotenuse",
+    "question_text": "Sebuah segitiga siku-siku memiliki sisi tegak 12 cm dan sisi alas 16 cm. Berapakah panjang sisi miringnya (cm)?",
+    "answer": "20",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Surface Area of a Rectangular Prism",
+    "question_text": "Sebuah balok memiliki ukuran panjang 7 cm, lebar 5 cm, dan tinggi 9 cm. Berapakah luas permukaannya (cm^2)?",
+    "answer": "286",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Perimeter of a Square",
+    "question_text": "Sebuah persegi memiliki sisi 17 cm. Berapakah kelilingnya (cm)?",
+    "answer": "68",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Volume of a Cone",
+    "question_text": "Sebuah kerucut memiliki jari-jari 7 cm dan tinggi 6 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "308",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Area of a Trapezoid",
+    "question_text": "Sebuah trapesium memiliki sisi sejajar 6 cm dan 8 cm, serta tinggi 6 cm. Berapakah luasnya (cm^2)?",
+    "answer": "42",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Area of a Rectangle",
+    "question_text": "Sebuah persegi panjang memiliki panjang 19 cm dan lebar 8 cm. Berapakah luasnya (cm^2)?",
+    "answer": "152",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Volume of a Cone",
+    "question_text": "Sebuah kerucut memiliki jari-jari 14 cm dan tinggi 15 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "3080",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Area of a Trapezoid",
+    "question_text": "Sebuah trapesium memiliki sisi sejajar 26 cm dan 22 cm, serta tinggi 13 cm. Berapakah luasnya (cm^2)?",
+    "answer": "312",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Area of a Circle",
+    "question_text": "Sebuah lingkaran memiliki jari-jari 14 cm. Gunakan π = 22/7. Berapakah luas lingkaran tersebut (cm^2)?",
+    "answer": "616",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Surface Area of a Cube",
+    "question_text": "Sebuah kubus memiliki panjang sisi 3 cm. Berapakah luas permukaan kubus tersebut (cm^2)?",
+    "answer": "54",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Volume of a Cylinder",
+    "question_text": "Sebuah tabung memiliki jari-jari 7 cm dan tinggi 14 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "2156",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Circumference of a Circle",
+    "question_text": "Sebuah lingkaran memiliki diameter 35 cm. Gunakan π = 22/7. Berapakah keliling lingkaran tersebut (cm)?",
+    "answer": "110",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Volume of a Sphere",
+    "question_text": "Sebuah bola memiliki jari-jari 42 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "310464",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Pythagorean Hypotenuse",
+    "question_text": "Sebuah segitiga siku-siku memiliki sisi tegak 24 cm dan sisi alas 32 cm. Berapakah panjang sisi miringnya (cm)?",
+    "answer": "40",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Surface Area of a Rectangular Prism",
+    "question_text": "Sebuah balok memiliki ukuran panjang 4 cm, lebar 7 cm, dan tinggi 4 cm. Berapakah luas permukaannya (cm^2)?",
+    "answer": "144",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Volume of a Sphere",
+    "question_text": "Sebuah bola memiliki jari-jari 21 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "38808",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Volume of a Rectangular Prism",
+    "question_text": "Sebuah balok memiliki ukuran panjang 10 cm, lebar 4 cm, dan tinggi 11 cm. Berapakah volumenya (cm^3)?",
+    "answer": "440",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Area of a Trapezoid",
+    "question_text": "Sebuah trapesium memiliki sisi sejajar 26 cm dan 16 cm, serta tinggi 5 cm. Berapakah luasnya (cm^2)?",
+    "answer": "105",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Area of a Rectangle",
+    "question_text": "Sebuah persegi panjang memiliki panjang 10 cm dan lebar 12 cm. Berapakah luasnya (cm^2)?",
+    "answer": "120",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Volume of a Cone",
+    "question_text": "Sebuah kerucut memiliki jari-jari 14 cm dan tinggi 21 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "4312",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Volume of a Cube",
+    "question_text": "Sebuah kubus memiliki panjang sisi 3 cm. Berapakah volumenya (cm^3)?",
+    "answer": "27",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Volume of a Cone",
+    "question_text": "Sebuah kerucut memiliki jari-jari 7 cm dan tinggi 9 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "462",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Volume of a Cone",
+    "question_text": "Sebuah kerucut memiliki jari-jari 7 cm dan tinggi 6 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "308",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Volume of a Cylinder",
+    "question_text": "Sebuah tabung memiliki jari-jari 7 cm dan tinggi 7 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "1078",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Area of a Rectangle",
+    "question_text": "Sebuah persegi panjang memiliki panjang 6 cm dan lebar 12 cm. Berapakah luasnya (cm^2)?",
+    "answer": "72",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Volume of a Sphere",
+    "question_text": "Sebuah bola memiliki jari-jari 21 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "38808",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Surface Area of a Rectangular Prism",
+    "question_text": "Sebuah balok memiliki ukuran panjang 6 cm, lebar 10 cm, dan tinggi 8 cm. Berapakah luas permukaannya (cm^2)?",
+    "answer": "376",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Area of a Triangle",
+    "question_text": "Sebuah segitiga memiliki alas 6 cm dan tinggi 11 cm. Berapakah luasnya (cm^2)?",
+    "answer": "33",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Perimeter of a Square",
+    "question_text": "Sebuah persegi memiliki sisi 13 cm. Berapakah kelilingnya (cm)?",
+    "answer": "52",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Area of a Circle",
+    "question_text": "Sebuah lingkaran memiliki jari-jari 7 cm. Gunakan π = 22/7. Berapakah luas lingkaran tersebut (cm^2)?",
+    "answer": "154",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Pythagorean Hypotenuse",
+    "question_text": "Sebuah segitiga siku-siku memiliki sisi tegak 12 cm dan sisi alas 16 cm. Berapakah panjang sisi miringnya (cm)?",
+    "answer": "20",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Volume of a Sphere",
+    "question_text": "Sebuah bola memiliki jari-jari 21 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "38808",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Circumference of a Circle",
+    "question_text": "Sebuah lingkaran memiliki diameter 49 cm. Gunakan π = 22/7. Berapakah keliling lingkaran tersebut (cm)?",
+    "answer": "154",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Surface Area of a Rectangular Prism",
+    "question_text": "Sebuah balok memiliki ukuran panjang 10 cm, lebar 10 cm, dan tinggi 6 cm. Berapakah luas permukaannya (cm^2)?",
+    "answer": "440",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Surface Area of a Rectangular Prism",
+    "question_text": "Sebuah balok memiliki ukuran panjang 2 cm, lebar 5 cm, dan tinggi 3 cm. Berapakah luas permukaannya (cm^2)?",
+    "answer": "62",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Area of a Rectangle",
+    "question_text": "Sebuah persegi panjang memiliki panjang 5 cm dan lebar 13 cm. Berapakah luasnya (cm^2)?",
+    "answer": "65",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Surface Area of a Cube",
+    "question_text": "Sebuah kubus memiliki panjang sisi 8 cm. Berapakah luas permukaan kubus tersebut (cm^2)?",
+    "answer": "384",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Pythagorean Missing Leg",
+    "question_text": "Sebuah segitiga siku-siku memiliki sisi tegak 9 cm dan sisi miring 15 cm. Berapakah panjang sisi alasnya (cm)?",
+    "answer": "12",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Volume of a Cone",
+    "question_text": "Sebuah kerucut memiliki jari-jari 7 cm dan tinggi 15 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "770",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Perimeter of a Square",
+    "question_text": "Sebuah persegi memiliki sisi 17 cm. Berapakah kelilingnya (cm)?",
+    "answer": "68",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Surface Area of a Cube",
+    "question_text": "Sebuah kubus memiliki panjang sisi 6 cm. Berapakah luas permukaan kubus tersebut (cm^2)?",
+    "answer": "216",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Area of a Circle",
+    "question_text": "Sebuah lingkaran memiliki jari-jari 14 cm. Gunakan π = 22/7. Berapakah luas lingkaran tersebut (cm^2)?",
+    "answer": "616",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Surface Area of a Rectangular Prism",
+    "question_text": "Sebuah balok memiliki ukuran panjang 10 cm, lebar 9 cm, dan tinggi 3 cm. Berapakah luas permukaannya (cm^2)?",
+    "answer": "294",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Surface Area of a Cube",
+    "question_text": "Sebuah kubus memiliki panjang sisi 6 cm. Berapakah luas permukaan kubus tersebut (cm^2)?",
+    "answer": "216",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Area of a Circle",
+    "question_text": "Sebuah lingkaran memiliki jari-jari 28 cm. Gunakan π = 22/7. Berapakah luas lingkaran tersebut (cm^2)?",
+    "answer": "2464",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Volume of a Cone",
+    "question_text": "Sebuah kerucut memiliki jari-jari 7 cm dan tinggi 12 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "616",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Volume of a Sphere",
+    "question_text": "Sebuah bola memiliki jari-jari 42 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "310464",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Volume of a Cylinder",
+    "question_text": "Sebuah tabung memiliki jari-jari 7 cm dan tinggi 6 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "924",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Perimeter of a Square",
+    "question_text": "Sebuah persegi memiliki sisi 14 cm. Berapakah kelilingnya (cm)?",
+    "answer": "56",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Area of a Rectangle",
+    "question_text": "Sebuah persegi panjang memiliki panjang 15 cm dan lebar 17 cm. Berapakah luasnya (cm^2)?",
+    "answer": "255",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Volume of a Sphere",
+    "question_text": "Sebuah bola memiliki jari-jari 42 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "310464",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Pythagorean Missing Leg",
+    "question_text": "Sebuah segitiga siku-siku memiliki sisi tegak 24 cm dan sisi miring 40 cm. Berapakah panjang sisi alasnya (cm)?",
+    "answer": "32",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Pythagorean Hypotenuse",
+    "question_text": "Sebuah segitiga siku-siku memiliki sisi tegak 9 cm dan sisi alas 12 cm. Berapakah panjang sisi miringnya (cm)?",
+    "answer": "15",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Volume of a Sphere",
+    "question_text": "Sebuah bola memiliki jari-jari 21 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "38808",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Area of a Rectangle",
+    "question_text": "Sebuah persegi panjang memiliki panjang 5 cm dan lebar 7 cm. Berapakah luasnya (cm^2)?",
+    "answer": "35",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Volume of a Sphere",
+    "question_text": "Sebuah bola memiliki jari-jari 21 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "38808",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Surface Area of a Cube",
+    "question_text": "Sebuah kubus memiliki panjang sisi 5 cm. Berapakah luas permukaan kubus tersebut (cm^2)?",
+    "answer": "150",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Surface Area of a Sphere",
+    "question_text": "Sebuah bola memiliki jari-jari 7 cm. Gunakan π = 22/7. Berapakah luas permukaannya (cm^2)?",
+    "answer": "616",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Area of a Rectangle",
+    "question_text": "Sebuah persegi panjang memiliki panjang 16 cm dan lebar 16 cm. Berapakah luasnya (cm^2)?",
+    "answer": "256",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Surface Area of a Rectangular Prism",
+    "question_text": "Sebuah balok memiliki ukuran panjang 9 cm, lebar 2 cm, dan tinggi 6 cm. Berapakah luas permukaannya (cm^2)?",
+    "answer": "168",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Volume of a Cube",
+    "question_text": "Sebuah kubus memiliki panjang sisi 6 cm. Berapakah volumenya (cm^3)?",
+    "answer": "216",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Surface Area of a Sphere",
+    "question_text": "Sebuah bola memiliki jari-jari 7 cm. Gunakan π = 22/7. Berapakah luas permukaannya (cm^2)?",
+    "answer": "616",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Volume of a Sphere",
+    "question_text": "Sebuah bola memiliki jari-jari 21 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "38808",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Area of a Rectangle",
+    "question_text": "Sebuah persegi panjang memiliki panjang 11 cm dan lebar 18 cm. Berapakah luasnya (cm^2)?",
+    "answer": "198",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Area of a Triangle",
+    "question_text": "Sebuah segitiga memiliki alas 8 cm dan tinggi 11 cm. Berapakah luasnya (cm^2)?",
+    "answer": "44",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Surface Area of a Cube",
+    "question_text": "Sebuah kubus memiliki panjang sisi 6 cm. Berapakah luas permukaan kubus tersebut (cm^2)?",
+    "answer": "216",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Circumference of a Circle",
+    "question_text": "Sebuah lingkaran memiliki diameter 49 cm. Gunakan π = 22/7. Berapakah keliling lingkaran tersebut (cm)?",
+    "answer": "154",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Volume of a Cone",
+    "question_text": "Sebuah kerucut memiliki jari-jari 7 cm dan tinggi 18 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "924",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Surface Area of a Cube",
+    "question_text": "Sebuah kubus memiliki panjang sisi 7 cm. Berapakah luas permukaan kubus tersebut (cm^2)?",
+    "answer": "294",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Volume of a Cylinder",
+    "question_text": "Sebuah tabung memiliki jari-jari 7 cm dan tinggi 7 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "1078",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Surface Area of a Rectangular Prism",
+    "question_text": "Sebuah balok memiliki ukuran panjang 10 cm, lebar 5 cm, dan tinggi 6 cm. Berapakah luas permukaannya (cm^2)?",
+    "answer": "280",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Area of a Trapezoid",
+    "question_text": "Sebuah trapesium memiliki sisi sejajar 10 cm dan 10 cm, serta tinggi 14 cm. Berapakah luasnya (cm^2)?",
+    "answer": "140",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Volume of a Sphere",
+    "question_text": "Sebuah bola memiliki jari-jari 21 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "38808",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Perimeter of a Square",
+    "question_text": "Sebuah persegi memiliki sisi 10 cm. Berapakah kelilingnya (cm)?",
+    "answer": "40",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Volume of a Sphere",
+    "question_text": "Sebuah bola memiliki jari-jari 42 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "310464",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Pythagorean Missing Leg",
+    "question_text": "Sebuah segitiga siku-siku memiliki sisi tegak 32 cm dan sisi miring 68 cm. Berapakah panjang sisi alasnya (cm)?",
+    "answer": "60",
+    "difficulty": "medium"
+  },
+  {
+    "title": "Volume of a Sphere",
+    "question_text": "Sebuah bola memiliki jari-jari 42 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "310464",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Surface Area of a Cube",
+    "question_text": "Sebuah kubus memiliki panjang sisi 11 cm. Berapakah luas permukaan kubus tersebut (cm^2)?",
+    "answer": "726",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Volume of a Cone",
+    "question_text": "Sebuah kerucut memiliki jari-jari 21 cm dan tinggi 9 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "4158",
+    "difficulty": "hard"
+  },
+  {
+    "title": "Volume of a Cone",
+    "question_text": "Sebuah kerucut memiliki jari-jari 14 cm dan tinggi 6 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?",
+    "answer": "1232",
+    "difficulty": "hard"
+  }
+]

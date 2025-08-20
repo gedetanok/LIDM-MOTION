@@ -1,0 +1,101 @@
+title,question_text,answer,difficulty
+Area of a Triangle,Sebuah segitiga memiliki alas 12 cm dan tinggi 12 cm. Berapakah luasnya (cm^2)?,72,easy
+Volume of a Cube,Sebuah kubus memiliki panjang sisi 7 cm. Berapakah volumenya (cm^3)?,343,easy
+Pythagorean Missing Leg,Sebuah segitiga siku-siku memiliki sisi alas 48 cm dan sisi miring 52 cm. Berapakah panjang sisi tegaknya (cm)?,20,medium
+Volume of a Cone,Sebuah kerucut memiliki jari-jari 21 cm dan tinggi 18 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,8316,hard
+Area of a Rectangle,Sebuah persegi panjang memiliki panjang 10 cm dan lebar 18 cm. Berapakah luasnya (cm^2)?,180,easy
+Perimeter of a Square,Sebuah persegi memiliki sisi 6 cm. Berapakah kelilingnya (cm)?,24,easy
+Surface Area of a Sphere,Sebuah bola memiliki jari-jari 14 cm. Gunakan π = 22/7. Berapakah luas permukaannya (cm^2)?,2464,hard
+Area of a Triangle,Sebuah segitiga memiliki alas 14 cm dan tinggi 8 cm. Berapakah luasnya (cm^2)?,56,easy
+Area of a Rectangle,Sebuah persegi panjang memiliki panjang 7 cm dan lebar 17 cm. Berapakah luasnya (cm^2)?,119,easy
+Volume of a Cylinder,Sebuah tabung memiliki jari-jari 7 cm dan tinggi 21 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,3234,hard
+Surface Area of a Cube,Sebuah kubus memiliki panjang sisi 5 cm. Berapakah luas permukaan kubus tersebut (cm^2)?,150,easy
+Perimeter of a Square,Sebuah persegi memiliki sisi 10 cm. Berapakah kelilingnya (cm)?,40,easy
+Circumference of a Circle,Sebuah lingkaran memiliki diameter 21 cm. Gunakan π = 22/7. Berapakah keliling lingkaran tersebut (cm)?,66,medium
+Pythagorean Hypotenuse,Sebuah segitiga siku-siku memiliki sisi tegak 24 cm dan sisi alas 32 cm. Berapakah panjang sisi miringnya (cm)?,40,medium
+Area of a Rectangle,Sebuah persegi panjang memiliki panjang 17 cm dan lebar 13 cm. Berapakah luasnya (cm^2)?,221,easy
+Circumference of a Circle,Sebuah lingkaran memiliki diameter 42 cm. Gunakan π = 22/7. Berapakah keliling lingkaran tersebut (cm)?,132,medium
+Pythagorean Hypotenuse,Sebuah segitiga siku-siku memiliki sisi tegak 21 cm dan sisi alas 72 cm. Berapakah panjang sisi miringnya (cm)?,75,medium
+Volume of a Cylinder,Sebuah tabung memiliki jari-jari 14 cm dan tinggi 6 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,3696,hard
+Volume of a Rectangular Prism,"Sebuah balok memiliki ukuran panjang 4 cm, lebar 8 cm, dan tinggi 7 cm. Berapakah volumenya (cm^3)?",224,medium
+Volume of a Sphere,Sebuah bola memiliki jari-jari 42 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,310464,hard
+Pythagorean Hypotenuse,Sebuah segitiga siku-siku memiliki sisi tegak 12 cm dan sisi alas 16 cm. Berapakah panjang sisi miringnya (cm)?,20,medium
+Surface Area of a Rectangular Prism,"Sebuah balok memiliki ukuran panjang 7 cm, lebar 5 cm, dan tinggi 9 cm. Berapakah luas permukaannya (cm^2)?",286,medium
+Perimeter of a Square,Sebuah persegi memiliki sisi 17 cm. Berapakah kelilingnya (cm)?,68,easy
+Volume of a Cone,Sebuah kerucut memiliki jari-jari 7 cm dan tinggi 6 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,308,hard
+Area of a Trapezoid,"Sebuah trapesium memiliki sisi sejajar 6 cm dan 8 cm, serta tinggi 6 cm. Berapakah luasnya (cm^2)?",42,medium
+Area of a Rectangle,Sebuah persegi panjang memiliki panjang 19 cm dan lebar 8 cm. Berapakah luasnya (cm^2)?,152,easy
+Volume of a Cone,Sebuah kerucut memiliki jari-jari 14 cm dan tinggi 15 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,3080,hard
+Area of a Trapezoid,"Sebuah trapesium memiliki sisi sejajar 26 cm dan 22 cm, serta tinggi 13 cm. Berapakah luasnya (cm^2)?",312,medium
+Area of a Circle,Sebuah lingkaran memiliki jari-jari 14 cm. Gunakan π = 22/7. Berapakah luas lingkaran tersebut (cm^2)?,616,medium
+Surface Area of a Cube,Sebuah kubus memiliki panjang sisi 3 cm. Berapakah luas permukaan kubus tersebut (cm^2)?,54,easy
+Volume of a Cylinder,Sebuah tabung memiliki jari-jari 7 cm dan tinggi 14 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,2156,hard
+Circumference of a Circle,Sebuah lingkaran memiliki diameter 35 cm. Gunakan π = 22/7. Berapakah keliling lingkaran tersebut (cm)?,110,medium
+Volume of a Sphere,Sebuah bola memiliki jari-jari 42 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,310464,hard
+Pythagorean Hypotenuse,Sebuah segitiga siku-siku memiliki sisi tegak 24 cm dan sisi alas 32 cm. Berapakah panjang sisi miringnya (cm)?,40,medium
+Surface Area of a Rectangular Prism,"Sebuah balok memiliki ukuran panjang 4 cm, lebar 7 cm, dan tinggi 4 cm. Berapakah luas permukaannya (cm^2)?",144,medium
+Volume of a Sphere,Sebuah bola memiliki jari-jari 21 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,38808,hard
+Volume of a Rectangular Prism,"Sebuah balok memiliki ukuran panjang 10 cm, lebar 4 cm, dan tinggi 11 cm. Berapakah volumenya (cm^3)?",440,medium
+Area of a Trapezoid,"Sebuah trapesium memiliki sisi sejajar 26 cm dan 16 cm, serta tinggi 5 cm. Berapakah luasnya (cm^2)?",105,medium
+Area of a Rectangle,Sebuah persegi panjang memiliki panjang 10 cm dan lebar 12 cm. Berapakah luasnya (cm^2)?,120,easy
+Volume of a Cone,Sebuah kerucut memiliki jari-jari 14 cm dan tinggi 21 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,4312,hard
+Volume of a Cube,Sebuah kubus memiliki panjang sisi 3 cm. Berapakah volumenya (cm^3)?,27,easy
+Volume of a Cone,Sebuah kerucut memiliki jari-jari 7 cm dan tinggi 9 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,462,hard
+Volume of a Cone,Sebuah kerucut memiliki jari-jari 7 cm dan tinggi 6 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,308,hard
+Volume of a Cylinder,Sebuah tabung memiliki jari-jari 7 cm dan tinggi 7 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,1078,hard
+Area of a Rectangle,Sebuah persegi panjang memiliki panjang 6 cm dan lebar 12 cm. Berapakah luasnya (cm^2)?,72,easy
+Volume of a Sphere,Sebuah bola memiliki jari-jari 21 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,38808,hard
+Surface Area of a Rectangular Prism,"Sebuah balok memiliki ukuran panjang 6 cm, lebar 10 cm, dan tinggi 8 cm. Berapakah luas permukaannya (cm^2)?",376,medium
+Area of a Triangle,Sebuah segitiga memiliki alas 6 cm dan tinggi 11 cm. Berapakah luasnya (cm^2)?,33,easy
+Perimeter of a Square,Sebuah persegi memiliki sisi 13 cm. Berapakah kelilingnya (cm)?,52,easy
+Area of a Circle,Sebuah lingkaran memiliki jari-jari 7 cm. Gunakan π = 22/7. Berapakah luas lingkaran tersebut (cm^2)?,154,medium
+Pythagorean Hypotenuse,Sebuah segitiga siku-siku memiliki sisi tegak 12 cm dan sisi alas 16 cm. Berapakah panjang sisi miringnya (cm)?,20,medium
+Volume of a Sphere,Sebuah bola memiliki jari-jari 21 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,38808,hard
+Circumference of a Circle,Sebuah lingkaran memiliki diameter 49 cm. Gunakan π = 22/7. Berapakah keliling lingkaran tersebut (cm)?,154,medium
+Surface Area of a Rectangular Prism,"Sebuah balok memiliki ukuran panjang 10 cm, lebar 10 cm, dan tinggi 6 cm. Berapakah luas permukaannya (cm^2)?",440,medium
+Surface Area of a Rectangular Prism,"Sebuah balok memiliki ukuran panjang 2 cm, lebar 5 cm, dan tinggi 3 cm. Berapakah luas permukaannya (cm^2)?",62,medium
+Area of a Rectangle,Sebuah persegi panjang memiliki panjang 5 cm dan lebar 13 cm. Berapakah luasnya (cm^2)?,65,easy
+Surface Area of a Cube,Sebuah kubus memiliki panjang sisi 8 cm. Berapakah luas permukaan kubus tersebut (cm^2)?,384,easy
+Pythagorean Missing Leg,Sebuah segitiga siku-siku memiliki sisi tegak 9 cm dan sisi miring 15 cm. Berapakah panjang sisi alasnya (cm)?,12,medium
+Volume of a Cone,Sebuah kerucut memiliki jari-jari 7 cm dan tinggi 15 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,770,hard
+Perimeter of a Square,Sebuah persegi memiliki sisi 17 cm. Berapakah kelilingnya (cm)?,68,easy
+Surface Area of a Cube,Sebuah kubus memiliki panjang sisi 6 cm. Berapakah luas permukaan kubus tersebut (cm^2)?,216,easy
+Area of a Circle,Sebuah lingkaran memiliki jari-jari 14 cm. Gunakan π = 22/7. Berapakah luas lingkaran tersebut (cm^2)?,616,medium
+Surface Area of a Rectangular Prism,"Sebuah balok memiliki ukuran panjang 10 cm, lebar 9 cm, dan tinggi 3 cm. Berapakah luas permukaannya (cm^2)?",294,medium
+Surface Area of a Cube,Sebuah kubus memiliki panjang sisi 6 cm. Berapakah luas permukaan kubus tersebut (cm^2)?,216,easy
+Area of a Circle,Sebuah lingkaran memiliki jari-jari 28 cm. Gunakan π = 22/7. Berapakah luas lingkaran tersebut (cm^2)?,2464,medium
+Volume of a Cone,Sebuah kerucut memiliki jari-jari 7 cm dan tinggi 12 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,616,hard
+Volume of a Sphere,Sebuah bola memiliki jari-jari 42 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,310464,hard
+Volume of a Cylinder,Sebuah tabung memiliki jari-jari 7 cm dan tinggi 6 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,924,hard
+Perimeter of a Square,Sebuah persegi memiliki sisi 14 cm. Berapakah kelilingnya (cm)?,56,easy
+Area of a Rectangle,Sebuah persegi panjang memiliki panjang 15 cm dan lebar 17 cm. Berapakah luasnya (cm^2)?,255,easy
+Volume of a Sphere,Sebuah bola memiliki jari-jari 42 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,310464,hard
+Pythagorean Missing Leg,Sebuah segitiga siku-siku memiliki sisi tegak 24 cm dan sisi miring 40 cm. Berapakah panjang sisi alasnya (cm)?,32,medium
+Pythagorean Hypotenuse,Sebuah segitiga siku-siku memiliki sisi tegak 9 cm dan sisi alas 12 cm. Berapakah panjang sisi miringnya (cm)?,15,medium
+Volume of a Sphere,Sebuah bola memiliki jari-jari 21 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,38808,hard
+Area of a Rectangle,Sebuah persegi panjang memiliki panjang 5 cm dan lebar 7 cm. Berapakah luasnya (cm^2)?,35,easy
+Volume of a Sphere,Sebuah bola memiliki jari-jari 21 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,38808,hard
+Surface Area of a Cube,Sebuah kubus memiliki panjang sisi 5 cm. Berapakah luas permukaan kubus tersebut (cm^2)?,150,easy
+Surface Area of a Sphere,Sebuah bola memiliki jari-jari 7 cm. Gunakan π = 22/7. Berapakah luas permukaannya (cm^2)?,616,hard
+Area of a Rectangle,Sebuah persegi panjang memiliki panjang 16 cm dan lebar 16 cm. Berapakah luasnya (cm^2)?,256,easy
+Surface Area of a Rectangular Prism,"Sebuah balok memiliki ukuran panjang 9 cm, lebar 2 cm, dan tinggi 6 cm. Berapakah luas permukaannya (cm^2)?",168,medium
+Volume of a Cube,Sebuah kubus memiliki panjang sisi 6 cm. Berapakah volumenya (cm^3)?,216,easy
+Surface Area of a Sphere,Sebuah bola memiliki jari-jari 7 cm. Gunakan π = 22/7. Berapakah luas permukaannya (cm^2)?,616,hard
+Volume of a Sphere,Sebuah bola memiliki jari-jari 21 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,38808,hard
+Area of a Rectangle,Sebuah persegi panjang memiliki panjang 11 cm dan lebar 18 cm. Berapakah luasnya (cm^2)?,198,easy
+Area of a Triangle,Sebuah segitiga memiliki alas 8 cm dan tinggi 11 cm. Berapakah luasnya (cm^2)?,44,easy
+Surface Area of a Cube,Sebuah kubus memiliki panjang sisi 6 cm. Berapakah luas permukaan kubus tersebut (cm^2)?,216,easy
+Circumference of a Circle,Sebuah lingkaran memiliki diameter 49 cm. Gunakan π = 22/7. Berapakah keliling lingkaran tersebut (cm)?,154,medium
+Volume of a Cone,Sebuah kerucut memiliki jari-jari 7 cm dan tinggi 18 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,924,hard
+Surface Area of a Cube,Sebuah kubus memiliki panjang sisi 7 cm. Berapakah luas permukaan kubus tersebut (cm^2)?,294,easy
+Volume of a Cylinder,Sebuah tabung memiliki jari-jari 7 cm dan tinggi 7 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,1078,hard
+Surface Area of a Rectangular Prism,"Sebuah balok memiliki ukuran panjang 10 cm, lebar 5 cm, dan tinggi 6 cm. Berapakah luas permukaannya (cm^2)?",280,medium
+Area of a Trapezoid,"Sebuah trapesium memiliki sisi sejajar 10 cm dan 10 cm, serta tinggi 14 cm. Berapakah luasnya (cm^2)?",140,medium
+Volume of a Sphere,Sebuah bola memiliki jari-jari 21 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,38808,hard
+Perimeter of a Square,Sebuah persegi memiliki sisi 10 cm. Berapakah kelilingnya (cm)?,40,easy
+Volume of a Sphere,Sebuah bola memiliki jari-jari 42 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,310464,hard
+Pythagorean Missing Leg,Sebuah segitiga siku-siku memiliki sisi tegak 32 cm dan sisi miring 68 cm. Berapakah panjang sisi alasnya (cm)?,60,medium
+Volume of a Sphere,Sebuah bola memiliki jari-jari 42 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,310464,hard
+Surface Area of a Cube,Sebuah kubus memiliki panjang sisi 11 cm. Berapakah luas permukaan kubus tersebut (cm^2)?,726,easy
+Volume of a Cone,Sebuah kerucut memiliki jari-jari 21 cm dan tinggi 9 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,4158,hard
+Volume of a Cone,Sebuah kerucut memiliki jari-jari 14 cm dan tinggi 6 cm. Gunakan π = 22/7. Berapakah volumenya (cm^3)?,1232,hard
