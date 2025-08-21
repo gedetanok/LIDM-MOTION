@@ -1,5 +1,6 @@
 import React from 'react'
 import createPlotlyComponent from 'react-plotly.js/factory'
+// @ts-ignore - plotly.js-dist-min has no type exports in ESM
 import Plotly from 'plotly.js-dist-min'
 
 const Plot = createPlotlyComponent(Plotly)
@@ -14,16 +15,19 @@ function linspace(a: number, b: number, n: number) {
 export default function Graph3DPlotly({ meta }: { meta: Meta }) {
   if (!meta) return null
   const p = meta.params || {}
+  const isSmall = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(max-width: 640px)').matches
   const layout: any = {
-    margin: { l: 0, r: 0, t: 0, b: 0 },
+    autosize: true,
+    margin: { l: 8, r: 8, t: 8, b: 12 },
     scene: {
       aspectmode: 'cube',
-      xaxis: { title: 'x', showgrid: true, zeroline: true },
-      yaxis: { title: 'y', showgrid: true, zeroline: true },
-      zaxis: { title: 'z', showgrid: true, zeroline: true },
+      xaxis: { title: 'x', showgrid: true, zeroline: true, tickfont: { size: isSmall ? 10 : 12 } },
+      yaxis: { title: 'y', showgrid: true, zeroline: true, tickfont: { size: isSmall ? 10 : 12 } },
+      zaxis: { title: 'z', showgrid: true, zeroline: true, tickfont: { size: isSmall ? 10 : 12 } },
     },
     showlegend: false,
-    height: 360,
+    paper_bgcolor: 'rgba(0,0,0,0)',
+    plot_bgcolor: 'rgba(0,0,0,0)',
   }
 
   let data: any[] = []
@@ -79,5 +83,5 @@ export default function Graph3DPlotly({ meta }: { meta: Meta }) {
       data = []
   }
 
-  return <Plot data={data} layout={layout} config={{ displayModeBar: false, responsive: true }} style={{ width: '100%', height: 360 }} />
+  return <Plot data={data} layout={layout} config={{ displayModeBar: false, responsive: true }} style={{ width: '100%', height: '100%' }} useResizeHandler />
 }

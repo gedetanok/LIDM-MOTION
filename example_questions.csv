@@ -1,0 +1,11 @@
+title,question_text,answer,difficulty
+"Perimeter of a Square","Sebuah persegi memiliki panjang sisi 12 cm. Berapakah kelilingnya?","48","easy"
+"Area of a Circle","Sebuah lingkaran memiliki jari-jari 7 cm. Berapakah luasnya? (Gunakan π = 22/7)","154","medium"
+"Area of an Equilateral Triangle","Segitiga sama sisi memiliki panjang sisi 10 cm. Berapakah luasnya?","25√3","medium"
+"Area of a Rectangle","Persegi panjang memiliki panjang 15 cm dan lebar 8 cm. Berapakah luasnya?","120","easy"
+"Side of a Square from Diagonal","Diagonal sebuah persegi adalah 10√2 cm. Berapakah panjang sisinya?","10","medium"
+"Volume of a Cylinder","Sebuah tabung memiliki jari-jari 7 cm dan tinggi 10 cm. Berapakah volumenya? (Gunakan π = 22/7)","1540","medium"
+"Hypotenuse of a Right Triangle","Sebuah segitiga siku-siku memiliki alas 9 cm dan tinggi 12 cm. Berapakah panjang sisi miringnya?","15","easy"
+"Linear Pair Angles","Sudut A dan B berpelurus. Jika ∠A = 65°, berapakah ∠B?","115","easy"
+"Surface Area of a Rectangular Prism","Sebuah balok berukuran 8 cm × 6 cm × 4 cm. Berapakah luas permukaannya?","208","medium"
+"Volume of a Cube from Surface Area","Luas permukaan kubus adalah 216 cm². Berapakah volumenya?","216","medium"

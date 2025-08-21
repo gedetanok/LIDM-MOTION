@@ -14,12 +14,18 @@
     "@radix-ui/react-dialog": "^1.1.15",
     "@supabase/supabase-js": "^2.55.0",
     "framer-motion": "^12.23.12",
+    "katex": "^0.16.22",
+    "papaparse": "^5.5.3",
     "plotly.js-dist-min": "^2.35.3",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-markdown": "^9.1.0",
     "react-plotly.js": "^2.6.0",
     "react-router-dom": "^7.8.1",
-    "recharts": "^3.1.2"
+    "recharts": "^3.1.2",
+    "rehype-katex": "^7.0.1",
+    "remark-gfm": "^4.0.1",
+    "remark-math": "^6.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",

@@ -1,5 +1,6 @@
 import React from 'react'
 import createPlotlyComponent from 'react-plotly.js/factory'
+// @ts-ignore
 import Plotly from 'plotly.js-dist-min'
 
 const Plot = createPlotlyComponent(Plotly)
@@ -55,7 +56,7 @@ export default function Graph3DWire({ meta }: { meta: Meta }) {
     <Plot
       data={data}
       layout={{
-        height: 360,
+        autosize: true,
         margin: { l: 0, r: 0, t: 0, b: 0 },
         scene: {
           aspectmode: 'cube',
@@ -66,7 +67,8 @@ export default function Graph3DWire({ meta }: { meta: Meta }) {
         showlegend: false,
       }}
       config={{ displayModeBar: false, responsive: true }}
-      style={{ width: '100%', height: 360 }}
+      style={{ width: '100%', height: '100%' }}
+      useResizeHandler
     />
   )
 }

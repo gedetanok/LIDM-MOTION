@@ -28,7 +28,31 @@ export function deriveVisualizationMeta(ex) {
     return { dimension: '2D', shape: 'rectangle', params: { l: pick(0, 4), w: pick(1, 3) } }
   }
   if (has('segitiga') || has('triangle')) {
-    return { dimension: '2D', shape: 'triangle', params: { base: pick(0, 4), h: pick(1, 3) } }
+    // Types of triangles
+    const isEquilateral = has('sama sisi') || has('equilateral')
+    const isRight = has('siku-siku') || has('right')
+    const isIsosceles = has('sama kaki') || has('isosceles')
+
+    if (isEquilateral) {
+      // Expect a single side length
+      const s = pick(0, 4)
+      return { dimension: '2D', shape: 'triangle', type: 'equilateral', params: { s } }
+    }
+
+    if (isIsosceles) {
+      // Expect equal side length a and base b; if only one number present, treat as side, assume base ~ 0.8*side
+      const a = pick(0, 5)
+      const b = numbers.length > 1 ? pick(1, Math.max(3, Math.round(a * 0.8))) : Math.max(3, Math.round(a * 0.8))
+      return { dimension: '2D', shape: 'triangle', type: 'isosceles', params: { a, b } }
+    }
+
+    if (isRight) {
+      // Expect base and height
+      return { dimension: '2D', shape: 'triangle', type: 'right', params: { base: pick(0, 4), h: pick(1, 3) } }
+    }
+
+    // Generic triangle → base & height
+    return { dimension: '2D', shape: 'triangle', type: 'generic', params: { base: pick(0, 4), h: pick(1, 3) } }
   }
   if (has('lingkaran') || has('circle')) {
     return { dimension: '2D', shape: 'circle', params: { r: pick(0, 3) } }

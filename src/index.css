@@ -6,3 +6,12 @@
 
 /* App base styles can go below if needed */
 body { @apply bg-gray-50 text-gray-800; }
+
+/* Subtle square grid background utility */
+.bg-grid {
+  background-image:
+    linear-gradient(to right, rgba(99, 102, 241, 0.08) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(99, 102, 241, 0.08) 1px, transparent 1px);
+  background-size: 24px 24px;
+  background-position: 0 0;
+}
