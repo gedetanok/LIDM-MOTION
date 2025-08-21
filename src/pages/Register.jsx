@@ -50,7 +50,7 @@ export default function Register() {
       <div className="w-full max-w-md overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm">
         <div className="px-6 py-6 bg-gradient-to-r from-indigo-100/70 to-white">
           <div className="flex">
-            <img src="/Group 21.png" alt="MOTION" className="h-10 w-auto" />
+            <img src="/logo-motion.png" alt="MOTION" className="h-10 w-auto" />
           </div>
           <h1 className="mt-3 text-xl font-semibold text-slate-800">Daftar ke MOTION</h1>
           <p className="text-slate-600 mt-1 text-sm">Belajar matematika + emosi dengan cara yang menyenangkan.</p>

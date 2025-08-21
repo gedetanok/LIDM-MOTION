@@ -17,7 +17,7 @@ export default function Navbar() {
     <nav className="sticky top-0 z-20 bg-white/80 backdrop-blur border-b border-gray-100">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
         <Link to="/dashboard" className="flex items-center gap-2">
-          <img src="/Group 21.png" alt="MOTION" className="h-8 w-auto" />
+          <img src="/logo-motion.png" alt="MOTION" className="h-8 w-auto" />
         </Link>
         {/* Desktop */}
         <div className="hidden md:flex items-center gap-3">
